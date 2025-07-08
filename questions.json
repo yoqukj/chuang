@@ -1,0 +1,955 @@
+[
+	{
+		"question": "Linux操作系统的创始人和主要设计者是()?",
+		"answer": "Linus Torvalds"
+	},
+	{
+		"question": "Linux操作系统自诞生至今,有数十万的程序开发人员参与到了它的开发与完善中,如今Linux已发展成为是一个成熟、稳定的操作系统。从以下选项中选出关于Linux特点描述完全正确的一项。",
+		"answer": "多用户.多线程,多CPU"
+	},
+	{
+		"question": "Linux操作系统的应用领域极其广泛,在下列选项中,哪些可能用到了Linux操作系统?",
+		"answer": "以上全部"
+	},
+	{
+		"question": "Linux操作系统是一个单用户、多线程、多CPU,采用分时复用机制的操作系统。",
+		"answer": "错误"
+	},
+	{
+		"question": "无论是Windows系统还是Linux系统,都可以通过ping命令检测网络连接状态。",
+		"answer": "正确"
+	},
+	{
+		"question": "无论是Windows系统还是Linux系统,都可以通过ifconfig命令检测网络连接状态。",
+		"answer": "错误"
+	},
+	{
+		"question": "虽然Linux的应用领域极其广泛,但在机顶盒中不使用Linux操作系统。",
+		"answer": "错误"
+	},
+	{
+		"question": "Linux操作系统是Unix操作系统的一个克隆版本。",
+		"answer": "错误"
+	},
+	{
+		"question": "SFTP即安全Shell协议,是远程文件管理中会用到的协议,该协议通过高强度的加密算法,提高了数据传输的安全性。",
+		"answer": "错误"
+	},
+	{
+		"question": "日常生活中,人们使用的智能手机、车载电脑、智能电视、机顶盒等都会使用Linux操作系统。",
+		"answer": "错误"
+	},
+	{
+		"question": "Linux操作系统的核心程序由芬兰赫尔辛基大学的一名学生林纳斯·托瓦兹编写的。",
+		"answer": "正确"
+	},
+	{
+		"question": "POSIX标准的初衷是提高Unix环境下应用程序的可移植性,保证应用程序的源码可以移植到多种操作系统上并正常运行。",
+		"answer": "正确"
+	},
+	{
+		"question": "当Linux部署完成后,除了直接在服务器上进行操作,还可以通过网络进行远程连接访问。Linux中用于网络传输的协议为SFTP:用于远程文件管理的协议为SSH。",
+		"answer": "错误"
+	},
+	{
+		"question": "在Linux系统中,所有文件的路径都从根目录开始。",
+		"answer": "正确"
+	},
+	{
+		"question": "Linux一词本指Linux操作系统的内核,但后来人们逐渐使用Linux指代整个操作系统。",
+		"answer": "正确"
+	},
+	{
+		"question": "实际上,在如今的Linux操作系统中,林纳斯·托瓦兹编写的代码在Linux源码中只占据一小部分。",
+		"answer": "正确"
+	},
+	{
+		"question": "VMware网络配置中有四种网络模式。",
+		"answer": "错误"
+	},
+	{
+		"question": "eth0网卡用于在本机内部访问,ip地址为127.0.0.1:1o网卡用于访问外部网络,该网卡默认关闭。",
+		"answer": "错误"
+	},
+	{
+		"question": "Linux操作系统在服务器、超级计算机、嵌入式系统等领域都有广泛应用。",
+		"answer": "正确"
+	},
+	{
+		"question": "NAT模式下,只要物理机能访问网络,虚拟机便能访问网络。",
+		"answer": "正确"
+	},
+	{
+		"question": "Linux是一种开放源代码、可自由传播的计算机操作系统,其目的是建立不受任何商品化软件版权制约、全世界都能自由使用的类UNIX系统。",
+		"answer": "正确"
+	},
+	{
+		"question": "若使用VMrare的NAT模式或仅主机模式,网络中的虚拟机可以通过DICP自动获取IP地址。",
+		"answer": "错误"
+	},
+	{
+		"question": "可在安装了windows系统的物理机中通过\"ifconfig\"命令查看网卡信息。",
+		"answer": "错误"
+	},
+	{
+		"question": "在使用虚拟机ping物理机时,可能因防火墙导致ping失败。",
+		"answer": "正确"
+	},
+	{
+		"question": "在局域网中,可以通过为每台主机设置静态IP,来确保局域网中的主机可通过一个IP地址找到一台服务器。",
+		"answer": "正确"
+	},
+	{
+		"question": "当虚拟机的网络为桥接模式时,虚拟机与物理机的IP地址处于同一个网段中。",
+		"answer": "正确"
+	},
+	{
+		"question": "在为主机设置静态IP时,应保证该静态IP在其所处的网络中不会发生冲突。",
+		"answer": "正确"
+	},
+	{
+		"question": "无论是Windows系统还是Linux系统,都可以通过ping 命令检测网络连接状态。",
+		"answer": "ping"
+	},
+	{
+		"question": "Linux操作系统的核心程序由芬兰赫尔辛基大学的一名学生编写的。",
+		"answer": "Linus Torvalds"
+	},
+	{
+		"question": "从计算机的角度分析,接通电源后,需经过步骤加电自检(POST) 引导加载程序(Boot Loader)和什么,操作系统才会启动。",
+		"answer": "内核加载、用户空间初始化"
+	},
+	{
+		"question": "Linux操作系统是一款免费使用,且可以自由传播的类Unix操作系统,它支持什么,从其诞生到现在,性能逐步得到了稳定提升。",
+		"answer": "类Unix、图形界面、多线程及多CPU"
+	},
+	{
+		"question": "Linux操作系统是哪个操作系统的一个克隆版本。",
+		"answer": "类Unix"
+	},
+	{
+		"question": "VWware提供了桥接、什么和仅主机模式,这些模式对应的名称分别为Vnet0、VMnet8和Ynet1。这三种网络",
+		"answer": "NAT"
+	},
+	{
+		"question": "Linux操作系统因其强大的功能和良好的稳定性,逐渐被应用到了人类社会的诸多领域,目前,Linux的应用领域主要包括什么。",
+		"answer": "服务器、嵌入式系统和移动设备"
+	},
+	{
+		"question": "主引导记录MBR中包含一个实现引导加载功能的程序是什么。",
+		"answer": "引导扇区"
+	},
+	{
+		"question": "Linux系统中只有一个树状结构,什么位于所有目录和文件的顶端,是唯一的根结点。",
+		"answer": "根"
+	},
+	{
+		"question": "当Linux部署完成后,除了直接在服务器上进行操作,还可以通过网络进行远程连接访问。Linux中用于网络传输的协议为什么:用于远程文件管理的协议为什么。",
+		"answer": "SSH、FTP"
+	},
+	{
+		"question": "什么网卡用于在本机内部访问,ip地址为127.0.0.1:什么网卡用于访问外部网络,该网卡默认关闭。",
+		"answer": "lo、eth0"
+	},
+	{
+		"question": "多道程序设计是指()。",
+		"answer": "在一台处理机上并发运行多个程序"
+	},
+	{
+		"question": "存放用户帐号的文件是()。",
+		"answer": "passwd"
+	},
+	{
+		"question": "假设当前有两个用户组group1、group2，有三名用户usr1、usr2、usr3，其中usr1、usr2属于用户组group1，usr3属于用户组group2，假设用户usr1使用\"touch file\"命令创建了一个文件file，并将该文件的权限设置为654。找出以下关于用户与文件的说法中错误的一项。()",
+		"answer": "usr1.usr3对文件fle有写权限。"
+	},
+	{
+		"question": "在Linux中，下面哪一条命令可更改普通用户为超级用户()。",
+		"answer": "su"
+	},
+	{
+		"question": "已知某用户stud1，其用户目录为/home/stud1。分页显示当前目录下的所有文件的文件或目录名、用户组、用户、文件大小、文件或目录权限、文件创建时间等信息的命令是()。",
+		"answer": "ls -al | more"
+	},
+	{
+		"question": "改变文件所有者的命令为()。",
+		"answer": "chown"
+	},
+	{
+		"question": "在使用mkdir命令创建新的目录时，在其父目录不存在时先创建父目录的选项是()。",
+		"answer": "-p"
+	},
+	{
+		"question": "某文件的组外成员的权限为只读；所有者有全部权限；组内的权限为读与写，则该文件的权限为()。",
+		"answer": "764"
+	},
+	{
+		"question": "下面各选项中关于用户切换命令su和sudo的说法，正确的是。()",
+		"answer": "使用su命令切换用户时需要知道当前用户的密码。"
+	},
+	{
+		"question": "如何删除一个非空子目录/tmp()。",
+		"answer": "rm -rf /tmp"
+	},
+	{
+		"question": "一个硬盘最多有()个扩展分区?",
+		"answer": "1"
+	},
+	{
+		"question": "将光盘/dev/hdc卸载的命令是()。",
+		"answer": "umount /dev/hdc"
+	},
+	{
+		"question": "文件exer1的访问权限为rw----，现要增加所有用户的执行权限和同组用户的写权限，下列命令正确的是()。",
+		"answer": "chmod a+x g+w exer1"
+	},
+	{
+		"question": "在Linux中，要求将文件mm.txt的所有使用者的文件执行权限删除。则下面所示命令中，哪一个是错的()。",
+		"answer": "chmod o-x mm.txt"
+	},
+	{
+		"question": "在给定文件中查找与设定条件相符字符串的命令为()。",
+		"answer": "grep"
+	},
+	{
+		"question": "根据文件路径来改变文件权限使用系统调用是()。",
+		"answer": "chmod"
+	},
+	{
+		"question": "如果想列出当前目录以及子目录下所有扩展名为.txt的文件，那么可以使用的命令是()。",
+		"answer": "find . -name \"*.txt\""
+	},
+	{
+		"question": "系统中有用户user1和user2，同属于users组。在user1用户目录下有一文件file1，它拥有644的权限，如果user2用户想修改user1用户目录下的file1文件，应拥有()权限。",
+		"answer": "664"
+	},
+	{
+		"question": "如果执行命令#chmod 746 file,txt，那么该文件的权限是()。",
+		"answer": "rwxr--w-"
+	},
+	{
+		"question": "若一个文件的权限为rwxW--x，问文件所有者、所属组用户和其他用户分别能否删除该文件。()",
+		"answer": "文件所有者可以，文件所属组用户，其他用户不能"
+	},
+	{
+		"question": "一个硬盘最多能够被分成()个主分区?",
+		"answer": "4"
+	},
+	{
+		"question": "使用su命令切换用户时需要知道当前用户的密码。",
+		"answer": "错误"
+	},
+	{
+		"question": "在多道程序设计中，一个CPU上可同时执行多个进程。",
+		"answer": "错误"
+	},
+	{
+		"question": "使用su命令从当前用户(itcast)切换到itheima用户时，使用的命令为\"su - itheima\"，输入命令后须再输入用户itheima的密码，方能成功切换用户。",
+		"answer": "正确"
+	},
+	{
+		"question": "默认情况下创建文件的用户即为文件所有者，也可在创建文件的同时指定其他用户为文件所有者，或在文件创建后通过高级用户变更所有者。",
+		"answer": "正确"
+	},
+	{
+		"question": "一个硬盘最多能有1个扩展分区。",
+		"answer": "正确"
+	},
+	{
+		"question": "系统用户是保障系统运行的用户，其用户ID为1~499。",
+		"answer": "正确"
+	},
+	{
+		"question": "除基本组外，用户所在的组都是附加组。为用户指定附加组，可以使用户拥有对应组的权限。",
+		"answer": "正确"
+	},
+	{
+		"question": "即便当前用户为root用户，切换用户时也必须输入用户密码。",
+		"answer": "错误"
+	},
+	{
+		"question": "使用sudo命令切换用户时需要知道待切换用户的密码。",
+		"answer": "错误"
+	},
+	{
+		"question": "若用户被创建时没有指定用户组，系统会为用户创建一个与用户名相同的组，这个组就是该用户的基本组。",
+		"answer": "正确"
+	},
+	{
+		"question": "若磁盘有只一个主分区和一个扩展分区，则其逻辑分区的编号从3开始。",
+		"answer": "错误"
+	},
+	{
+		"question": "一个硬盘最多能有3个扩展分区。",
+		"answer": "错误"
+	},
+	{
+		"question": "为用户组指定附加组，可以使该用户拥有对应组的权限。",
+		"answer": "正确"
+	},
+	{
+		"question": "用户可以从附加组中移除，但不能从基本组中移除。",
+		"answer": "正确"
+	},
+	{
+		"question": "一个硬盘最多能有4个主分区。",
+		"answer": "正确"
+	},
+	{
+		"question": "使用su命令由普通用户切换到目标用户时，需要输入当前用户的密码。",
+		"answer": "错误"
+	},
+	{
+		"question": "可以在创建用户时，使用选项-G为其指定基本组。",
+		"answer": "错误"
+	},
+	{
+		"question": "一个硬盘最多能有3个主分区。",
+		"answer": "错误"
+	},
+	{
+		"question": "su和sudo都用于切换用户身份，相比之下，su命令更加安全。",
+		"answer": "错误"
+	},
+	    {
+        "question": "在文件中查找显示所有以\"*\"开头的行， 下列命令中正确的选项是?",
+        "answer": "D、.grep\\* file"
+    },
+    {
+        "question": "如果要定义一个变量， 所有用户都可以使用，则将变量放在下列哪一个文件中?",
+        "answer": "B、./etc/profile"
+    },
+    {
+        "question": "下列哪一个特殊变量表示传递到脚本的参数数量。",
+        "answer": "A、$#"
+    },
+    {
+        "question": "使用grep搜索file文件，查找包含字符\"e\"开头，字符\"o\"结尾的字符串的文本行，下列命令中正确的是。",
+        "answer": "D、grep-x *e$o file"
+    },
+    {
+        "question": "下列选项中，哪一个符号是管道符号。",
+        "answer": "D、|"
+    },
+    {
+        "question": "关于命令set PS1=\"[\\u\\w\\t]\\\\$， export PS1的作用， 下列说法中正确的是。",
+        "answer": "B、改变命令提示符"
+    },
+    {
+        "question": "下列哪一个选项是定义bash环境的用户文件?",
+        "answer": "D、.bashrc & .bash_profile"
+    },
+    {
+        "question": "下列选项中，哪一项可以使用find命令查找当前目录下名称结尾为.c的文件，并将结果作标准输出。",
+        "answer": "D、.find .-name \"*.c\"-printf"
+    },
+    {
+        "question": "下列哪一项不是环境变量PS1所包含的内容。",
+        "answer": "C、.\\s"
+    },
+    {
+        "question": "下列哪一项不是Shell提供的环境变量。",
+        "answer": "D、.NAME"
+    },
+    {
+        "question": "关于Shell脚本，下列哪一项描述是错误的。",
+        "answer": "D、.Shell脚本编写完毕就具有执行权限"
+    },
+    {
+        "question": "使用awk命令输出第三域的数字之和，则下列选项中正确的命令是。",
+        "answer": "C、 .awk-F：'{sum=sum+$3}END{print sum}' file"
+    },
+    {
+        "question": "下列环境变量中，哪一项保存了bash的提示符?",
+        "answer": "C、.$PS1"
+    },
+    {
+        "question": "下列哪一个文件可用于查看系统支持的Shell类型。",
+        "answer": "A、/etc/shells"
+    },
+    {
+        "question": "在bash中，在一条命令后添加\"1>&2\"的作用是什么?",
+        "answer": "C、标准输出重定向到标准错误输出"
+    },
+    {
+        "question": "关于重定向，下列描述中错误的是。",
+        "answer": "B、输入重定向符号为>.输出重定向和错误重定向的符号为<"
+    },
+    {
+        "question": "在bash中，快捷键【Ctrl+Z】的作用是什么?",
+        "answer": "C、将前台任务转入后台"
+    },
+    {
+        "question": "下列选项中哪一项不是awk提供的关系运算符。",
+        "answer": "B、.="
+    },
+    {
+        "question": "使用sed命令删除文件file中的所有文本行开头的空格，下列命令正确的是。",
+        "answer": "C、.sed-r's/^[]*//g' file"
+    },
+    {
+        "question": "有文件file包含如下几个字符串：abominable、abominate、anomie、atomize，则下列选项中，哪一命令能将它们都匹配出来。",
+        "answer": "A、、egrep'a.omi(nabl|nat|z|)e' file"
+    },
+    {
+        "question": "使用grep命令搜索file中所有不包含\"itcast\"的文本行，则下列命令中正确的是。",
+        "answer": "D、.grep-v \"itcast\" file"
+    },
+    {
+        "question": "关于正则表达式，下列说法中正确的是。",
+        "answer": "C、.正则表达式包括基础正则表达式和扩展正则表达式两种"
+    },
+    {
+        "question": "使用awk命令输出Dan的电话，则下列选项中正确的命令是。",
+        "answer": "G、awk-F：{if($1~/Dan/)print$2}' file"
+    },
+    {
+        "question": "命令ls -d /etc/y*[!.conf]在/etc目录下查找以.conf结尾的文件。",
+        "answer": "错误"
+    },
+    {
+        "question": "使用sed命令将file文件的所有小写字母用()括起来，下列命令正确的是。",
+        "answer": "A、：sed 's/[a-z]/(&)/g'a.sh"
+    },
+    {
+        "question": "使用命令echo $SHELL可以显示用户登录的Shell包括子Shell。",
+        "answer": "错误"
+    },
+    {
+        "question": "可以使用快捷键【Crtl+T】查找历史命令。",
+        "answer": "错误"
+    },
+    {
+        "question": "awk处理文本时， 如果没有指定匹配模式，则默认匹配所有数据。",
+        "answer": "正确"
+    },
+    {
+        "question": "使用\"；\"连接符间隔的命令，会按照先后次序依次执行。",
+        "answer": "正确"
+    },
+    {
+        "question": "使用source命令执行Shell脚本时，需要给脚本赋予执行权限。",
+        "answer": "错误"
+    },
+    {
+        "question": "grep可以一次对多个文件进行搜索。",
+        "answer": "正确"
+    },
+    {
+        "question": "在Shell下，一次只能输入并执行一个命令。",
+        "answer": "错误"
+    },
+    {
+        "question": "用户不能自定义环境变量。",
+        "answer": "错误"
+    },
+    {
+        "question": "sed编辑命令\"=\"用于为文本赋值。",
+        "answer": "错误"
+    },
+    {
+        "question": "输出重定向的符号为<。",
+        "answer": "错误"
+    },
+    {
+        "question": "正则表达式中\"+\" 符号对前面字符至少要匹配一次。",
+        "answer": "正确"
+    },
+    {
+        "question": "sed一次只能处理一个文本编辑任务。",
+        "answer": "错误"
+    },
+    {
+        "question": "命令egrep与grep-E是等价的。",
+        "answer": "正确"
+    },
+    {
+        "question": "在Shel1中， for var in {1..5}与for var in 1 2 3 4 5是等价的。",
+        "answer": "正确"
+    },
+	
+    {
+        "question": "关于操作系统的内核，下列说法中错误的是。",
+        "answer": "C、Linux内核是一个微内核"
+    },
+    {
+        "question": "关于Linux内核版本，下列说法错误的选项。",
+        "answer": "D、3.3.2表示稳定的发行版本"
+    },
+    {
+        "question": "下列选项中，哪一个命令可以查看内核模块版本信息。",
+        "answer": "C、.modinfo"
+    },
+    {
+        "question": "下列选项中，哪一个命令可以调出内核环境的配置菜单。",
+        "answer": "C、.make menuconfig"
+    },
+    {
+        "question": "关于内核的编译安装，下列说法中正确的是。",
+        "answer": "C、安装内核命令为make install"
+    },
+    {
+        "question": "关于Linux内核模块，下列说法中正确的是。",
+        "answer": "C、内核模块可以被单独编译"
+    },
+    {
+        "question": "下列关于modprobe命令的描述，错误的选项。",
+        "answer": "C、modprobe命令加载模块时必须要带模块的绝对路径"
+    },
+    {
+        "question": "下列选项中， 哪一个用于内核源码的第一次清理。",
+        "answer": "B、 make mrproper"
+    },
+    {
+        "question": "使用lsmod grep fuse命令查看fuse模块，得到如下信息：fuse 877413，则关于fuse模块，下列描述中错误的是。",
+        "answer": "C、fuse模块可随时被卸载"
+    },
+    {
+        "question": "下列选项中， 哪一项不是modinfo命令可以显示的模块信息。",
+        "answer": "C、进程占用信息"
+    },
+    {
+        "question": "关于内核的开发与更新，下列描述中错误的是。",
+        "answer": "D、内核的发布都是完整版本"
+    },
+    {
+        "question": "使用modinfo命令查看模块fuse的使用说明，则下列命令中正确的是。",
+        "answer": "B、.modinfo -d fuse"
+    },
+    {
+        "question": "关于内核源码，下列说法中错误的是。",
+        "answer": "B、内核源码第一次清理一般使用make clean命令"
+    },
+    {
+        "question": "内核模块的加载函数一般用init来标识。",
+        "answer": "正确"
+    },
+    {
+        "question": "在命令行中修改内核参数，重启之后就失效了。",
+        "answer": "正确"
+    },
+    {
+        "question": "内核版本有时可以是四个数字。",
+        "answer": "正确"
+    },
+    {
+        "question": "insmod命令加载模块时必须要带模块的后缀名.ko。",
+        "answer": "正确"
+    },
+    {
+        "question": "Linux的内核模块可被单独编译运行。",
+        "answer": "错误"
+    },
+    {
+        "question": "内核支持内核空间的多线程管理，采用线程调度程序选择线程占用CPU运行。",
+        "answer": "正确"
+    },
+    {
+        "question": "modprobe命令加载的内核只能通过该命令卸载。",
+        "answer": "错误"
+    },
+    {
+        "question": "编写内核源码之前只能使用make mrproper命令进行清理工作。",
+        "answer": "错误"
+    },
+    {
+        "question": "Linux内核源码中包含Makefile文件。",
+        "answer": "正确"
+    },
+    {
+        "question": "Linux操作系统内核是一个单内核。",
+        "answer": "正确"
+    },
+    {
+        "question": "内核代码不是开源的。",
+        "answer": "错误"
+    },
+    {
+        "question": "内核更新最先在稳定树中进行。",
+        "answer": "错误"
+    },
+    {
+        "question": "在编绎安装内核时，内核版本越高越好。",
+        "answer": "错误"
+    },
+    {
+        "question": "内核模块在加载卸载时需要修改内核符号表。",
+        "answer": "正确"
+    },
+    {
+        "question": "稳定版本的内核都是长期支持的。",
+        "answer": "错误"
+    },
+	
+    {
+        "question": "在LINUX系统中，使用BIND配置DNS服务器，若需要设置192.168.10.0/24网段的反向区域以下()是该3分反向域名的正确表示方式。",
+        "answer": "C、10.168.192.in-addr.arpa"
+    },
+    {
+        "question": "在Linux系统中，李雷用系统默认的vsftpd架设FTP服务器，他新建了一个名为gtuser的用户， 然后他修改/etc/vsftpd/vsftpd.conf文件， 加入下面两行，并且把gtuser用户加入到了/etc/vsftpd.user list文件中，请问gtuser用户在客户端登录结果会怎样()。",
+        "answer": "A、允许登陆"
+    },
+    {
+        "question": "在gt.edu域中，有一台主机IP地址为202.13.157.28，域名为sales.gt.edu，域名服务器为BIND， 使用\"named.157.13.202\"文件来记录该域的反向解析库，则关于sales.gt.edu主机正确的反向解析记录为()。",
+        "answer": "A、 28. IN PTR sales.gt.edu."
+    },
+    {
+        "question": "下列选项中存储的不是权威的域名数据。",
+        "answer": "C、存域名服务器"
+    },
+    {
+        "question": "在运行Linux操作系统的服务器上，管理员使用BIND配置了域名系统服务，请问主配置文件是()。",
+        "answer": "C、named.conf"
+    },
+    {
+        "question": "在Linux系统中使用BIND配置DNS服务器，若需要在区域文件中指定该域的邮件服务器应该添加()记3分录。",
+        "answer": "B、MX"
+    },
+    {
+        "question": "某学校为机房的电脑安装了Centos7.3系统，若需要这些机器通过DHCP方式自动获取IP地址， 可以在ifcfg-eth0网卡配置文件中设置()，并重启网络服务。",
+        "answer": "D、BOOTPROTO=dhclient"
+    },
+    {
+        "question": "DNS服务器的区域配置文件中， PTR记录的作用是()。",
+        "answer": "C、用于设置IP地址到主机域名的对应记录"
+    },
+    {
+        "question": "配置文件() 用于保存当前主机所使用的DNS服务器地址。",
+        "answer": "C、/etc/resolv.conf"
+    },
+    {
+        "question": "通过DHCP服务器的host声明为特定主机分配保留IP地址时，使用()配置关键字指定相应的MAC地址。",
+        "answer": "D、match-physical-address"
+    },
+    {
+        "question": "以下()协议用来将电子邮件下载到客户机。",
+        "answer": "C、POP3"
+    },
+    {
+        "question": "以下()不是常用的MTA软件。",
+        "answer": "D、exchange"
+    },
+    {
+        "question": "在Linux系统中配置vsftpd服务器，若需要限制最多允许50个客户端同时连接，应该在vsftpd.conf文件中设置()。",
+        "answer": "A、max clients=50"
+    },
+    {
+        "question": "将用户加入以下()文件中可能会阻止用户访问FTP服务器。",
+        "answer": "B、 vsftpd/user list"
+    },
+    {
+        "question": "下列选项()不是VSFTP支持的用户类型。",
+        "answer": "D、模拟用户"
+    },
+    {
+        "question": "FTP服务使用的端口是 ()。",
+        "answer": "A、21"
+    },
+    {
+        "question": "辅助域名服务器中存储的数据是权威数据源。",
+        "answer": "错误"
+    },
+    {
+        "question": "BIND服务器的服务程序名称是bindd。",
+        "answer": "错误"
+    },
+    {
+        "question": "当一台主机以递归查询的方式发起域名请求，最终查询结果不一定由本地域名服务器返回给此主机。",
+        "answer": "正确"
+    },
+    {
+        "question": "DHCP是动态主机配置协议的简称，其作用是：为网络中的主机分配IP地址。",
+        "answer": "正确"
+    },
+    {
+        "question": "通过修改DHCP主配置文件/etc/dhcp/dhcpd.conf中参数ddns-update-style的值，可以配置全局启用/禁用动态DNS更新。",
+        "answer": "正确"
+    },
+    {
+        "question": "多次使用ping命令测试www.baidu.com的连接情况，每次返回的IP地址可能不完全相同。",
+        "answer": "正确"
+    },
+    {
+        "question": "SMTP主要特点之一为能跨越网络传输邮件，即实现\"SMTP邮件中继\"",
+        "answer": "正确"
+    },
+    {
+        "question": "在使用POP3服务器收取新建时，使用dele[msg#]命令删除邮件，邮件会被立即删除。",
+        "answer": "错误"
+    },
+    {
+        "question": "通过更改配置文件/etc/sysconfig/network中的选项HOSTNAME的值可以更改主机名。",
+        "answer": "正确"
+    },
+    {
+        "question": "Postfix配置完成后，可使用命令systemctl reload postfix将其重启，使配置文件生效。",
+        "answer": "正确"
+    },
+    {
+        "question": "配置主从DNS服务器的过程中，可通过更改主配置文件options语句中的allow-query选项的指定客户端可查询的主机范围。当该项的值设置为{any}时，表示客户端能查询所有域名。",
+        "answer": "正确"
+    },
+    {
+        "question": "Dovecot是MDA的一种，用于搭建POP3/IMAP服务器，以实习爱你电子邮件服务器的\"收信\"功能。",
+        "answer": "正确"
+    },
+    {
+        "question": "用户在连接POP3服务器和SMTP服务器时必须先进行认证。",
+        "answer": "正确"
+    },
+    {
+        "question": "VSFTP服务器默认允许匿名用户登陆。",
+        "answer": "正确"
+    },
+    {
+        "question": "在chroot模式下使用匿名用户登录FTP服务器时，所登入的目录默认为/var/ftp，由于该目录的默认权限为755，匿名用户对该目录没有写入权限，因此将该目录权限更改为777后，匿名用户才能向FTP服务器上传文件。",
+        "answer": "正确"
+    },
+    {
+        "question": "FTP服务器的文件传输方式分为ASCII传输和二进制传输两种。",
+        "answer": "正确"
+    },
+	
+    {
+        "question": "下列选项中，哪一项是Ansible主机目录的配置文件默认配置文件？",
+        "answer": "A、/etc/ansible/hosts"
+    },
+    {
+        "question": "下列哪一个Ansible模块可以下载url到本地？",
+        "answer": "C、.get_url"
+    },
+    {
+        "question": "下列哪个选项可以在salt命令中指定Minion列表？",
+        "answer": "C、-C"
+    },
+    {
+        "question": "下列选项中，哪一项不是Ansible的特点？",
+        "answer": "C、基于C语言开发，对云计算及大数据支持很好"
+    },
+    {
+        "question": "下列命令中，哪一个命令可以生成SSH密钥？",
+        "answer": "A、ssh-keygen"
+    },
+    {
+        "question": "下列选项中，哪一个模块方法可测试Master与Minion的通信情况？",
+        "answer": "A、test.ping"
+    },
+    {
+        "question": "Ansible管理机上有一个脚本/root/hello.sh，下列选项中，哪一个命令可以将该脚本发送到所有节点上执行？",
+        "answer": "B、ansible webservers -m script -a /root/hello.sh"
+    },
+    {
+        "question": "下列选项中，哪一项不是硬件运维的范畴？",
+        "answer": "D、优化内部OA系统"
+    },
+    {
+        "question": "下列选项中，哪一项不属于role的目录结构？",
+        "answer": "B、.../hosts"
+    },
+    {
+        "question": "在Ansible节点agent1上创建一个用户名为test、组名为test的用户，下列选项中，哪一个命令可以实现此功能？",
+        "answer": "C、ansible agent1 -m user -a 'name=test group=test'"
+    },
+    {
+        "question": "下列选项中的命令，哪一个可以关闭Ansible节点agent1上的httpd服务？",
+        "answer": "B、.ansible agent1 -m service -a \"name=firewalld state=stopped\""
+    },
+    {
+        "question": "下列选项中，哪一个命令可以执行playbook文件？",
+        "answer": "C、.ansible-playbook"
+    },
+    {
+        "question": "下列选项中，哪一个Ansible模块可以获取节点的详细信息？",
+        "answer": "B、setup"
+    },
+    {
+        "question": "关于Ansible，下列描述中哪一项是正确的？",
+        "answer": "B、.Ansible可通过playbook来定制状态管理"
+    },
+    {
+        "question": "下列选项中哪一个关键字可以指定playbook的任务列表？",
+        "answer": "A、tasks"
+    },
+    {
+        "question": "下列选项中，哪一项是playbook的条件语句？",
+        "answer": "B、.when"
+    },
+    {
+        "question": "下列选项中，哪一项不是应用件运维的范畴？",
+        "answer": "C、公司服务器维修"
+    },
+    {
+        "question": "下列选项中，哪一个role目录是用来存储依赖role的？",
+        "answer": "B、.../.meta"
+    },
+    {
+        "question": "下列命令中，哪一项可以启动SaltStack的Master端服务？",
+        "answer": "B、systemctl start salt-master"
+    },
+    {
+        "question": "下列选项中，哪一项不是Anisble的组成部分？",
+        "answer": "B、.State"
+    },
+    {
+        "question": "Ansible的主机目录可以对被管理节点分组，下列选项中，哪一个选项不能作为分组的依据？",
+        "answer": "C、端口"
+    },
+    {
+        "question": "关于Ansible的command模块和shell模块，下列说法中错误的是。",
+        "answer": "D、shell不支持管道"
+    },
+    {
+        "question": "关于YAML，下列描述中错误的是。",
+        "answer": "C、YAML列表中成员都以“”开头"
+    },
+    {
+        "question": "在SaltStack的Master端查看Minion的连接情况，可以使用下列哪个选项的命令？",
+        "answer": "B、.salt key"
+    },
+    {
+        "question": "下列选项中，哪个符号可以匹配SaltStack的所有的Minion端？",
+        "answer": "A、*"
+    },
+    {
+        "question": "关于role，下列说法中错误的是。",
+        "answer": "D、.role必须拥有完整的目录结构"
+    },
+    {
+        "question": "关于运维，下列描述中哪一项是错误的？",
+        "answer": "C、软件运维是指系统运维"
+    },
+    {
+        "question": "如果删除Ansible节点/root/目录下的demo1,txt文件，下列选项中，哪一个命令可以实现此功能。",
+        "answer": "A、ansible all-m file -a path=/root/demo1.txt state=absent"
+    },
+    {
+        "question": "关于playbook的组成部分，下列说法中错误的是。",
+        "answer": "D、handlers可以不定义"
+    },
+    {
+        "question": "关于SaltStack的state模块，下列描述中哪一项是错误的。",
+        "answer": "B、pkg模块用于安装更新软件包，但它不能实现卸载功能"
+    },
+    {
+        "question": "Ansible可以管理多种类型的主机。",
+        "answer": "正确"
+    },
+    {
+        "question": "部署SaltStack时，只需要在Master端安装salt-master就可以。",
+        "answer": "错误"
+    },
+    {
+        "question": "CentOS7官方yum源不包含Ansible。",
+        "answer": "对"
+    },
+    {
+        "question": "playbook中的变量使用关键字var定义。",
+        "answer": "错误"
+    },
+    {
+        "question": "机房选址、网络部署等都属于IT运维的一部分。",
+        "answer": "正确"
+    },
+    {
+        "question": "Ansible的shell模块可以执行远程主机的shell脚本。",
+        "answer": "正确"
+    },
+    {
+        "question": "由于应用的稳定性需要依赖系统，因此很多时候系统运维和应用运维是结合在一起的。",
+        "answer": "正确"
+    },
+    {
+        "question": "安装Ansible之前，需要先关闭防火墙。",
+        "answer": "错误"
+    },
+    {
+        "question": "在编写role时，根据需要加入对应功能目录即可，不必包含全部目录。",
+        "answer": "正确"
+    },
+    {
+        "question": "Ansible部署时只需要在服务端安装Ansible环境即可。",
+        "answer": "对"
+    },
+    {
+        "question": "SaltStack主要设计理念是远程执行和配置管理。",
+        "answer": "正确"
+    },
+    {
+        "question": "SaltStack中的service模块用于对Minion端的服务进行维护管理。",
+        "answer": "正确"
+    },
+    {
+        "question": "Ansible中的group模块可以在节点上创建用户。",
+        "answer": "错误"
+    },
+    {
+        "question": "SaltStack是基于C开发的。",
+        "answer": "错误"
+    },
+    {
+        "question": "在实际运维工作中，运维人员一般都是下载别人编写测试完成的role来使用。",
+        "answer": "正确"
+    },
+    {
+        "question": "Ansible的ping模块可以用来测试管理机与节点的连通性。",
+        "answer": "正确"
+    },
+    {
+        "question": "YAML中字典元素形式是键：值对。",
+        "answer": "正确"
+    },
+    {
+        "question": "SaltStack中的模块方法之间用，符号进行分隔。",
+        "answer": "对"
+    },
+    {
+        "question": "在YAML文件中，如果列表项下有子项，则缩进级别为一个空格。",
+        "answer": "错误"
+    },
+    {
+        "question": "YAML文件一般以--作为开头行。",
+        "answer": "错"
+    },
+	
+    {
+        "question": "下列哪个选项是配置zabbix-agent时必须配置的选项？（）",
+        "answer": "D、以上都是"
+    },
+    {
+        "question": "用户可使用软件（）提供的命令测试Zabbix服务器与客户端的连通性。",
+        "answer": "A、zabbix-agent"
+    },
+    {
+        "question": "Zabbix中的宏分为哪些级别？①主机级别 ②用户级别 ③模板级别 ④全局级别",
+        "answer": "B、①③④"
+    },
+    {
+        "question": "下列哪个选项不是Zabbix Web页面支持的主机采集数据的方式？",
+        "answer": "D、IMAP"
+    },
+    {
+        "question": "以下选项（）不是监控软件。",
+        "answer": "D、SMTP"
+    },
+    {
+        "question": "触发器中表达式的结果影响触发器的状态。",
+        "answer": "正确"
+    },
+    {
+        "question": "Agent采取主动方式监听是指，Agent采集监控信息，并通过10050端口主动将数据传送到Zabbix Server。",
+        "answer": "正确"
+    },
+    {
+        "question": "Zabbix Server所在主机无需安装zabbix-agent，zabbixserver可自行采集服务器主机中的数据。",
+        "answer": "错误"
+    },
+    {
+        "question": "Nagios既能良好的实现报警，又有友好的图形界面。",
+        "answer": "错误"
+    },
+    {
+        "question": "Zabbix3.0对搭建LAMP环境时使用的软件版本没有要求。",
+        "answer": "错误"
+    }
+
+]
