@@ -8,7 +8,7 @@
 // @match        https://stu.ityxb.com/writePaper/exam/*
 // @match        https://stu.ityxb.com/lookPaper/busywork/*
 // @match        https://stu.ityxb.com/lookPaper/exam/*
-// @connect      api.opui.news   
+// @connect      api.ui.news   
 // @connect      *
 // @grant        GM_xmlhttpRequest
 // @license      MIT
@@ -17,7 +17,7 @@
 (function() {
     'use strict';
 
-    const API_URL = "https://api.opui.news/v2/3.php";
+    const API_URL = "https://api.ui.news/v2/3.php";
     let answersVisible = true; // 控制答案显示状态
     let statusVisible = true;  // 控制状态显示状态
 
