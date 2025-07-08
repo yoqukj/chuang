@@ -1,4 +1,3 @@
-Here's the updated README with the API URL placeholder modified to your own deployed domain:
 
 ---
 
